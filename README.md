@@ -22,8 +22,23 @@ A cybersecurity project developed during an internship to implement secure user 
 
 ## Project Screenshots
 
-Screenshots of the application are included in this repository.
+### Registration
+![Registration Success](RegisterSuccess.png)
 
+### Login Success
+![Login Success](LoginSucc.png)
+
+### Login Failure
+![Login Failure](LoginFail.png)
+
+### Password Hashing
+![Hashing Success](HashSucc.png)
+
+### Account Locked
+![Account Locked](AccLocked.png)
+
+### Logout
+![Logout Success](LogoutSucc.png)
 ## Project Report
 
 The detailed project report is included in this repository.
