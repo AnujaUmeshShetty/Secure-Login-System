@@ -1,0 +1,9 @@
+Anuja|$2b$12$mXCGwexcARQG9hbsZFiMfeDn60OZv/rQYsR717kTdh307ltrv3E0u
+Anuja|$2b$12$.MmCCP7Kjaw4ZvmYAsSfluMYdBhx3EoV31dR4h5CqnV16mSMjtdT2
+Raja|$2b$12$I3VnQ7vVr/h7XIIVASjr0.7tgWwIlCe04V4V9OwflUTL9EXH8xxFS
+Cookie|$2b$12$hRW0UN3X9u6.vTGel43Jj.xmVAp0cXlusYj12zcpiRtSsOZKwJD8i
+Woofy|$2b$12$rlp2bk92oXKDD5OYkmr9o.ZctM05QZptRGMX6ytNosvwmFi8Mr2ra
+TestUser|$2b$12$Z/YLFqWbH/mKam8SJsdG3OxJs2R5Pdi8baJBz3XOYRc1tW3hJO6B2
+Brownie|$2b$12$yUPQPvlljFifHk0oHTzTNe1hyOIQpwVwBXnK7oTzJvApPPtS/F2Km
+SecureAdmin|$2b$12$zWiMJXmX3kyLIJQsxGh//.xDTHGjcimuZhbfl.g7xSQtpvDcbKcx.
+CyberUser|$2b$12$t4k5c26V52lIiy0QL/RoEO5KHpGP10zm9b0ZY4kG1SK4g8c8oWF.K
